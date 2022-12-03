@@ -65,11 +65,6 @@ caída de voltaje.
 ![image](https://user-images.githubusercontent.com/86561660/205445478-28632d22-c401-49c0-b220-8ba6ec68600e.png)
 
 
-![image](https://user-images.githubusercontent.com/86561660/205445542-190908e9-2f3d-4ff5-b90a-9544041d2615.png)
-
-
-![image](https://user-images.githubusercontent.com/86561660/205445556-3cc57787-2f5a-4369-b4e6-06a22df8971a.png)
-
 
 
 
@@ -132,13 +127,15 @@ AB, BC y CD.
 
 ![image](https://user-images.githubusercontent.com/86561660/205443435-67bbd20b-9103-499c-839b-5280d7fd1ee8.png)
 
+![image](https://user-images.githubusercontent.com/86561660/205447455-5093713e-d84d-40ae-8280-22dc43ee3017.png)
+
 25. Un divisor de voltaje está compuesto por dos resistores de 56 kohms y una fuente de 15 V. Calcule el voltaje de salida sin carga. ¿Cuál será el voltaje de salida si se conecta un resistor con carga de 1.0 Mohms a
 la salida?
 
 ![image](https://user-images.githubusercontent.com/86561660/205447409-3fa3f1aa-26be-4b75-9349-333b0da2cf9d.png)
 
 
-![image](https://user-images.githubusercontent.com/86561660/205447455-5093713e-d84d-40ae-8280-22dc43ee3017.png)
+
 
 
 7.5 V sin carga, 7.29 V con carga
@@ -174,7 +171,13 @@ para la operación apropiada de un amplificador. Aunque no se espera que usted c
 
 
 
+
+
+
 (a) Encuentre VG y VS (b) Determine I1, I2, ID, e IS (c) Encuentre VDS y VDG
+
+![image](https://user-images.githubusercontent.com/86561660/205449585-f7035dab-c722-467a-9b70-f8ce5cfce260.png)
+
 
 
 35. ¿En cuál de los siguientes intervalos de voltaje presentará un voltímetro la mínima carga que haya en
@@ -218,7 +221,6 @@ un circuito?
 
 
 
-![image](https://user-images.githubusercontent.com/86561660/205443858-c6ff12ad-a310-44d4-b2fe-d73e80872f00.png)
 
 43. Determine IT y VSALIDA en la figura 7-80.
 
