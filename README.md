@@ -5,20 +5,45 @@
 (c) R1 en paralelo con una rama que contiene R2 en serie con una combinación en paralelo de otros
 cuatro resistores
 
+![image](https://user-images.githubusercontent.com/86561660/205444997-3df1f869-6de8-4ecf-917e-cb082731f589.png)
+
+
+
+
 3. En cada circuito de la figura 7-62, identifique las relaciones en serie-paralelo de los resistores vistas
 desde la fuente
 
 ![image](https://user-images.githubusercontent.com/86561660/205443031-1a224854-2cc3-4acb-8748-ce10e0a846ca.png)
 
 
+(a) R1 y R4 están en serie con la combinación en paralelo de
+R2 y R3
+(b) R1 está en serie con la combinación en paralelo de R2
+, R3y R4
+(c) La combinación en paralelo de R2 y R3 está en serie con
+la combinación en paralelo de R4 y R5Todo esto está en
+paralelo con R1.
+
+
+
+
+
 5. Trace el diagrama esquemático de la configuración de la tarjeta de circuito impreso mostrada en la figura 7-64 indicando valores de resistor, e identifique las relaciones en serie-paralelo.
 
 ![image](https://user-images.githubusercontent.com/86561660/205443066-6b8f5a95-ae3f-467e-b78c-de19021f152b.png)
+
+![image](https://user-images.githubusercontent.com/86561660/205445194-08165ef4-3f6c-41ef-971f-05df6cf85ebe.png)
 
 
 7. Configure una tarjeta de circuito impreso para el circuito de la figura 7-63(c). La batería tiene que conectarse externa a la tarjeta.
 
 ![image](https://user-images.githubusercontent.com/86561660/205443102-096d8053-e433-4dfd-bbae-5a5bb17534ce.png)
+
+
+![image](https://user-images.githubusercontent.com/86561660/205445339-d596aad2-4fdd-4d7c-92b7-a04654e4ed3b.png)
+
+
+
 
 9. Para cada uno de los circuitos mostrados en la figura 7-62, determine la resistencia total presentada a
 la fuente.
@@ -26,20 +51,49 @@ la fuente.
 
 ![image](https://user-images.githubusercontent.com/86561660/205443158-8b5a3438-9d57-4c1b-9766-00cc67719580.png)
 
+![image](https://user-images.githubusercontent.com/86561660/205445434-bd1d72a1-8c73-47bf-a2ad-f44fb7855e11.png)
+
+
+
+
 
 11. Determine la corriente a través de cada resistor del circuito de la figura 7-62; calcule en seguida cada
 caída de voltaje.
 
 ![image](https://user-images.githubusercontent.com/86561660/205443192-89131730-0d0a-4c11-ab5c-05daa5ff0831.png)
 
+![image](https://user-images.githubusercontent.com/86561660/205445478-28632d22-c401-49c0-b220-8ba6ec68600e.png)
+
+
+![image](https://user-images.githubusercontent.com/86561660/205445542-190908e9-2f3d-4ff5-b90a-9544041d2615.png)
+
+
+![image](https://user-images.githubusercontent.com/86561660/205445556-3cc57787-2f5a-4369-b4e6-06a22df8971a.png)
+
+
+
+
 13. Encuentre RT para todas las combinaciones de los interruptores de la figura 7-66.
 
 ![image](https://user-images.githubusercontent.com/86561660/205443219-bf6e927c-d287-40f9-8378-062b553233ed.png)
+
+. SW1 cerrado, SW2 abierto: 220 ohms
+SW1 cerrado, SW2 cerrado: 200 ohms
+SW1 abierto, SW2 abierto: 320 ohms
+SW1 abierto, SW2 cerrado: 300 ohms 
+
 
 
 15. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-67.
 
 ![image](https://user-images.githubusercontent.com/86561660/205443249-40ba7660-0449-4594-9843-40871fa0f2de.png)
+
+. Medir el voltaje en A con respecto a tierra y el voltaje en B
+con respecto a tierra. La diferencia es VR2
+.
+
+
+
 
 17. En la figura 7-68, ¿cómo determinaría el voltaje entre los extremos de R2 por medición sin conectar directamente un medidor entre los extremos del resistor?
 
