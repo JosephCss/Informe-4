@@ -88,9 +88,8 @@ SW1 abierto, SW2 cerrado: 300 ohms
 
 ![image](https://user-images.githubusercontent.com/86561660/205443249-40ba7660-0449-4594-9843-40871fa0f2de.png)
 
-. Medir el voltaje en A con respecto a tierra y el voltaje en B
-con respecto a tierra. La diferencia es VR2
-.
+![image](https://user-images.githubusercontent.com/86561660/205447070-8d5913fb-905c-4672-b4ff-8f03d1298a84.png)
+
 
 
 
@@ -100,15 +99,33 @@ con respecto a tierra. La diferencia es VR2
 
 ![image](https://user-images.githubusercontent.com/86561660/205443275-0b30a17e-e15c-4452-87cd-079dd271a3b7.png)
 
+Medir el voltaje en A con respecto a tierra y el voltaje en B
+con respecto a tierra. La diferencia es VR2
+.
+
+
 
 19. Determine la resistencia del circuito mostrado en la figura 7-68 como se ve desde la fuente de voltaje.
 
+
 ![image](https://user-images.githubusercontent.com/86561660/205443331-5da31ea1-ec54-4f36-98a5-1357fdb8f1b9.png)
+
+
+
+303 kohms 
 
 21. (a) Determine el valor de R2 en la figura 7-70. (b) Encuentre la potencia en R2
 
 
 ![image](https://user-images.githubusercontent.com/86561660/205443358-d7356a8f-c096-4da3-b895-4772d93c0e2b.png)
+
+![image](https://user-images.githubusercontent.com/86561660/205447246-0cc32d89-c71d-4270-a92a-ae80a724f617.png)
+
+
+![image](https://user-images.githubusercontent.com/86561660/205447265-6333b356-961b-425f-800e-b78f192a474f.png)
+
+![image](https://user-images.githubusercontent.com/86561660/205447281-a195c6ab-b4c7-420f-abb5-f52ac565460e.png)
+
 
 23. Encuentre la resistencia entre cada uno de los siguientes juegos de nodos mostrados en la figura 7-72:
 AB, BC y CD.
@@ -118,13 +135,38 @@ AB, BC y CD.
 25. Un divisor de voltaje está compuesto por dos resistores de 56 kohms y una fuente de 15 V. Calcule el voltaje de salida sin carga. ¿Cuál será el voltaje de salida si se conecta un resistor con carga de 1.0 Mohms a
 la salida?
 
+![image](https://user-images.githubusercontent.com/86561660/205447409-3fa3f1aa-26be-4b75-9349-333b0da2cf9d.png)
+
+
+![image](https://user-images.githubusercontent.com/86561660/205447455-5093713e-d84d-40ae-8280-22dc43ee3017.png)
+
+
+7.5 V sin carga, 7.29 V con carga
+
+
 27. ¿Cuál de dos cargas, una de 10 kohms y otra de 47 kohms, provocará una disminución más pequeña en el voltaje de salida de un divisor de voltaje dado?
+ 
+ 47 kohms
+
+
 
 29. En la figura 7-74, determine el voltaje de salida con una carga de 33 kohms conectada entre A y B
+
+![image](https://user-images.githubusercontent.com/86561660/205447777-debb497b-7173-48df-8b9d-1ba50c671902.png)
+
+
+![image](https://user-images.githubusercontent.com/86561660/205447596-285136e0-5942-4cbc-8c14-ab8d328a485b.png)
+
+
+
 
 31. Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones: la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente
 tiene que ser de 10 V, y las salidas requeridas deben ser de 5 y 2.5 V. Trace el circuito. Determine el
 efecto en los voltajes de salida si se conecta una carga de 1.0 kÆ a cada toma, una a la vez.
+
+![image](https://user-images.githubusercontent.com/86561660/205447836-bb55ac34-e02c-4c75-8cad-fbb4cc873389.png)
+
+![image](https://user-images.githubusercontent.com/86561660/205447887-2b0ea9f7-8ce4-4f2a-820b-5b4a25efabc3.png)
 
 
 33. La figura 7-76 muestra un circuito polarizador de cd para un amplificador de transistor de efecto de
@@ -141,16 +183,34 @@ un circuito?
 (a) 1 V (b) 10 V (c) 100 V (d) 1000 V
 
 
+ 1000 V
+ 
+ ![image](https://user-images.githubusercontent.com/86561660/205448083-f3fb1c8c-8fad-4338-aba0-28c377954e40.png)
+
+
 37. El voltímetro descrito en el problema 36 se utiliza para medir voltaje entre los extremos de R4 en la figura 7-62(a).
 (a) ¿Qué intervalo se deberá utilizar?
 (b) ¿En cuánto se reduce el voltaje medido por el medidor con respecto al voltaje real?
 
 ![image](https://user-images.githubusercontent.com/86561660/205443775-98b1c200-3da3-45b5-891d-73d9c23c8055.png)
 
+![image](https://user-images.githubusercontent.com/86561660/205448214-11d8b81f-3caa-4d1f-8966-c25b49ac9faf.png)
+
+![image](https://user-images.githubusercontent.com/86561660/205448268-ab218565-3e07-4542-87eb-4d4a082a6a29.png)
+
+
+
+
+(a) intervalo de 0.5 (b) Aproximadamente 1 mV
+
 
 39. Para el circuito mostrado en la figura 7-77, calcule:
 (a) La resistencia total entre las terminales de la fuente (b) La corriente total suministrada por la fuente
 (c) La corriente a través del resistor de 910 ohms (d) El voltaje desde el punto A hasta el punto B
+
+![image](https://user-images.githubusercontent.com/86561660/205448333-8848713a-d39f-48a7-80c2-8c862ade68bb.png)
+
+![image](https://user-images.githubusercontent.com/86561660/205448370-99e39c96-3834-4d86-997a-b6ec3468ded4.png)
 
 41. Determine la resistencia total entre las terminales A y B de la red en escalera de la figura 7-79. Asimismo, calcule la corriente en cada rama con 10 V entre A y B.
 
