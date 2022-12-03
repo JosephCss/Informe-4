@@ -166,7 +166,6 @@ efecto en los voltajes de salida si se conecta una carga de 1.0 kÆ a cada toma,
 
 ![image](https://user-images.githubusercontent.com/86561660/205447836-bb55ac34-e02c-4c75-8cad-fbb4cc873389.png)
 
-![image](https://user-images.githubusercontent.com/86561660/205447887-2b0ea9f7-8ce4-4f2a-820b-5b4a25efabc3.png)
 
 
 33. La figura 7-76 muestra un circuito polarizador de cd para un amplificador de transistor de efecto de
@@ -214,6 +213,9 @@ un circuito?
 
 41. Determine la resistencia total entre las terminales A y B de la red en escalera de la figura 7-79. Asimismo, calcule la corriente en cada rama con 10 V entre A y B.
 
+![image](https://user-images.githubusercontent.com/86561660/205448791-a51334b8-67ac-4575-9a67-344a92642ab3.png)
+
+
 
 
 ![image](https://user-images.githubusercontent.com/86561660/205443858-c6ff12ad-a310-44d4-b2fe-d73e80872f00.png)
@@ -222,11 +224,16 @@ un circuito?
 
 ![image](https://user-images.githubusercontent.com/86561660/205443893-9ebaa919-e58c-4667-8276-5f748f2d0b82.png)
 
+. 971 mA
+
 
 45. Repita el problema 44 para las siguientes condiciones
 (a) SW3 y SW4 conectados a 112 V, SW1 y SW2 a tierra
 (b) SW3 y SW1 conectados a 112 V, SW2 y SW4 a tierra
 (c) Todos los interruptores conectados a 112 V
+
+![image](https://user-images.githubusercontent.com/86561660/205448834-3f14de9d-7e3d-4858-853e-1326895a1336.png)
+
 
 47. Una celda de carga tiene cuatro medidores de deformación idénticos con una resistencia ilimitada de
 120,000 Æ para cada medidor (un valor estándar). Cuando se agrega una carga, los medidores a tensión
@@ -235,9 +242,20 @@ incrementan su resistencia en 60 mÆ, a 120,060 Æ, y los medidores a compresió
 
 ![image](https://user-images.githubusercontent.com/86561660/205443955-67dc92d1-e8ef-45d2-b06a-b966168e9bdc.png)
 
+6 mV (lado derecho positivo con respecto al izquierdo)
+
 49. ¿Es correcta la lectura del voltímetro de la figura 7-84?
 
 ![image](https://user-images.githubusercontent.com/86561660/205444012-e313ca07-c57a-4efb-a02c-35bb46faa641.png)
+
+![image](https://user-images.githubusercontent.com/86561660/205448873-419930b1-5a9c-4549-8db7-d600494a3dd1.png)
+
+![image](https://user-images.githubusercontent.com/86561660/205448880-3ca97ef5-513a-4a2f-8368-c616b4e6c780.png)
+
+
+
+
+No, deberá ser de 4.39 V
 
 
 
@@ -246,20 +264,30 @@ incrementan su resistencia en 60 mÆ, a 120,060 Æ, y los medidores a compresió
 
 ![image](https://user-images.githubusercontent.com/86561660/205444039-6cdbc8bc-f68b-44e5-8a2e-fad258c6585f.png)
 
+El resistor de 2.2 kohms (R3) está abierto.
+
+
 
 53. Revise las lecturas de los medidores de la figura 7-88 y localice cualquier falla que pudiera existir
 
 ![image](https://user-images.githubusercontent.com/86561660/205444063-267f6fc1-7c82-4e34-998d-5b94ff08ed08.png)
 
+. El resistor de 3.3 kohms (R4) está abierto
+
 55. Abra el archivo P07-55 y mida la resistencia total.
 
+RT = 296.7 ohms
 
 
 57. Abra el archivo P07-57 y mida la resistencia no especificada
 
 
+R3 = 560 kÆ
+
 
 59. Abra el archivo P07-59 y localice el resistor en cortocircuito, si hay uno.
+
+R5 en cortocircuito
 
 # CAPITULO 8 
 
