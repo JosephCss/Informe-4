@@ -1,4 +1,29 @@
 # Informe-4
+# OBJETIVO GENERAL 
+
+Resolver ejercicios relacionados con circuitos en serie-paralelo,y teoremas de circuitos de circuitos y conversiones 
+
+
+
+# OBJETIVO ESPECIFICO
+
+Interpretar los valores obtendios en la solucion de ejercicios de circuitos en serie y paralelo 
+
+Entender que relacion existe entre los teoremas y los circuitos serie-paralelo
+
+Contrastar las relaciones que tiene los cambia la corriente, carga y voltaje es cada circuito serie-paralelo
+
+
+
+# MARCO TEORICO 
+
+![circuitos_cap8](https://user-images.githubusercontent.com/86561660/207157087-17e30023-be1f-4970-a212-b725d56d8a69.png)
+
+![circuitos_cap7](https://user-images.githubusercontent.com/86561660/207157096-b3350cf8-0165-4a76-8300-c3c6b5300476.png)
+
+
+
+
  1. Visualice y trace las siguientes combinaciones en serie-paralelo:
 (a) R1 en serie con la combinación en paralelo de R2 y R3
 (b) R1 en paralelo con la combinación en serie de R2 y R3
@@ -454,6 +479,11 @@ terminales A y B para lograr la transferencia de potencia máxima.
 
 IAB = 1.206 mA; VAB = 3.432 V;RL = 2.846 kohms
 
+# 6 CONCLUSIONES
+El presente deber logro mejorar mi resolución de ejercicios de circuitos serie-paralelo, ademas de ayudarme a la comprension de como varia el voltaje, corriente y carga en distintos tipos de circuitos , también fue de gran ayuda para ampliar mi interpretación de los teoremas que riguen en los circuitos, agregando que me permitió desarrollar la habilidad entender como transformar una fuente de voltaje a una fuente de corriente y en que condiciones debe estar para aplicar dicha transformacion 
+
+#7 BIBLIOGRAFÍA
+Floyd, T. L. (2007). PRINCIPIOS DE CIRCUITOS ELÉCTRICOS. México: PEARSON EDUCACIÓN.
 
 
 
