@@ -479,10 +479,16 @@ terminales A y B para lograr la transferencia de potencia máxima.
 
 IAB = 1.206 mA; VAB = 3.432 V;RL = 2.846 kohms
 
+# 5 VIDEO
+
+https://youtu.be/cwVtZjWb-dg
+
 # 6 CONCLUSIONES
+
 El presente deber logro mejorar mi resolución de ejercicios de circuitos serie-paralelo, ademas de ayudarme a la comprension de como varia el voltaje, corriente y carga en distintos tipos de circuitos , también fue de gran ayuda para ampliar mi interpretación de los teoremas que riguen en los circuitos, agregando que me permitió desarrollar la habilidad entender como transformar una fuente de voltaje a una fuente de corriente y en que condiciones debe estar para aplicar dicha transformacion 
 
 #7 BIBLIOGRAFÍA
+
 Floyd, T. L. (2007). PRINCIPIOS DE CIRCUITOS ELÉCTRICOS. México: PEARSON EDUCACIÓN.
 
 
